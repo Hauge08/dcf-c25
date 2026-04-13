@@ -39,7 +39,7 @@ C25_STOCKS = {
     "NKT.CO":       "NKT",
     "NDA-DK.CO":    "Nordea Bank",
     "JYSK.CO":      "Jyske Bank",
-    "SYDB.CO":      "Sydbank",
+    "ALSYDB.CO":    "AL Sydbank",
     "BAVA.CO":      "Bavarian Nordic",
 }
 
