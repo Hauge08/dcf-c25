@@ -17,7 +17,7 @@ warnings.filterwarnings("ignore")
 # ─── C25 constituents (ticker : display name) ────────────────────────────────
 C25_STOCKS = {
     "NOVO-B.CO":    "Novo Nordisk",
-    "MAERSK-A.CO":  "A.P. Møller-Mærsk A",
+    "FLS.CO":       "FLSmidth",
     "MAERSK-B.CO":  "A.P. Møller-Mærsk B",
     "ORSTED.CO":    "Ørsted",
     "CARL-B.CO":    "Carlsberg",
