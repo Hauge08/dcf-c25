@@ -2,8 +2,6 @@
 
 A Python tool that builds a **Discounted Cash Flow (DCF) model** for all stocks in the Danish C25 index, using live financial data to estimate intrinsic value and identify potential buying opportunities.
 
-![DCF Chart](output/dcf_c25.png)
-
 ---
 
 ## What it does
@@ -66,7 +64,7 @@ dcf-c25/
 
 **1. Clone the repo**
 ```bash
-git clone https://github.com/YOUR_USERNAME/dcf-c25.git
+git clone https://github.com/Hauge08/dcf-c25.git
 cd dcf-c25
 ```
 
